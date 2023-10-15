@@ -42,4 +42,8 @@ Saiga2 рассматривалась нами как русскоязычная
 
 [Файлы для YOLO](https://disk.yandex.ru/d/B_3vmAaZIr7ftg)
 
+[Изначальная модель llama2](https://huggingface.co/daryl149/llama-2-7b-chat-hf/tree/main)
+
+[Изначальная модель MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+
 [Дополнительные файлы](https://disk.yandex.ru/d/P7QTTBENbpunBQ)
