@@ -36,5 +36,6 @@ Saiga2 рассматривалась нами как русскоязычная
 - Также нами была запущена модель Yolo, с помощью которой мы протестировали распознавание объектов в реальном времени на видео, в дальнейшем её можно дообучать на необходимых объектах для распознавания.
 
 ### Ссылки
-[Наш датасет] (https://github.com/MrRobinGoood/Smart-robot-manipulator-hack/tree/master/datasets/dataset_for_mini_gpt)
-[Файлы для YOLO] (https://disk.yandex.ru/d/B_3vmAaZIr7ftg)
+[Наш датасет](https://github.com/MrRobinGoood/Smart-robot-manipulator-hack/tree/master/datasets/dataset_for_mini_gpt)
+
+[Файлы для YOLO](https://disk.yandex.ru/d/B_3vmAaZIr7ftg)
