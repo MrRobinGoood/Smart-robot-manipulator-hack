@@ -1,0 +1,502 @@
+[
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the orange kitten in the green box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'orange kitten']], ['pick_up', ['unspecified', 'orange kitten']], ['move_to', ['green box', 'orange kitten']], ['put', ['green box', 'orange kitten']]]",
+    "_var_instruction": "Put the orange kitten in the green box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a toy cube from the floor and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'toy cube']], ['pick_up', ['floor', 'toy cube']], ['move_to', ['table', 'toy cube']], ['put', ['table', 'toy cube']]]",
+    "_var_instruction": "Take a toy cube from the floor and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nMove the toy cat from the table to the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'toy cat']], ['pick_up', ['table', 'toy cat']], ['move_to', ['nightstand', 'toy cat']], ['put', ['nightstand', 'toy cat']]]",
+    "_var_instruction": "Move the toy cat from the table to the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['drawer', 'cucumber']], ['put', ['drawer', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the drawer."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a cucumber from the table and put it in an orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cucumber']], ['pick_up', ['table', 'cucumber']], ['move_to', ['orange box', 'cucumber']], ['put', ['orange box', 'cucumber']]]",
+    "_var_instruction": "Take a cucumber from the table and put it in an orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['box', 'cucumber']], ['put', ['box', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cube in an orange container.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cube']], ['pick_up', ['unspecified', 'cube']], ['move_to', ['orange container', 'cube']], ['put', ['orange container', 'cube']]]",
+    "_var_instruction": "Put the cube in an orange container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cube on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cube']], ['pick_up', ['unspecified', 'cube']], ['move_to', ['table', 'cube']], ['put', ['table', 'cube']]]",
+    "_var_instruction": "Put the cube on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cat in the green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy']], ['pick_up', ['unspecified', 'toy']], ['move_to', ['green container', 'toy cat']], ['put', ['green container', 'toy cat']]]",
+    "_var_instruction": "Put the toy cat in the green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the gray cat in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'gray cat']], ['pick_up', ['unspecified', 'gray cat']], ['move_to', ['orange box', 'gray cat']], ['put', ['orange box', 'gray cat']]]",
+    "_var_instruction": "Put the gray cat in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy']], ['pick_up', ['unspecified', 'toy']], ['move_to', ['chair', 'toy']], ['put', ['chair', 'toy']]]",
+    "_var_instruction": "Put the toy on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['box', 'cat']], ['put', ['box', 'cat']]]",
+    "_var_instruction": "Put the cat in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the white toy off the floor and put it in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'white toy']], ['pick_up', ['floor', 'white toy']], ['move_to', ['drawer', 'white toy']], ['put', ['drawer', 'white toy']]]",
+    "_var_instruction": "Take the white toy off the floor and put it in the drawer."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cube on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cube']], ['pick_up', ['unspecified', 'cube']], ['move_to', ['chair', 'cube']], ['put', ['chair', 'cube']]]",
+    "_var_instruction": "Put the cube on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake an apple and put it in a container.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'apple']], ['pick_up', ['unspecified', 'apple']], ['move_to', ['container', 'apple']], ['put', ['container', 'apple']]]",
+    "_var_instruction": "Take an apple and put it in a container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the banana from the floor and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'banana']], ['pick_up', ['floor', 'banana']], ['move_to', ['table', 'banana']], ['put', ['table', 'banana']]]",
+    "_var_instruction": "Pick up the banana from the floor and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cube from the floor and put it in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'cube']], ['pick_up', ['floor', 'cube']], ['move_to', ['box', 'cube']], ['put', ['box', 'cube']]]",
+    "_var_instruction": "Pick up the cube from the floor and put it in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cube']], ['pick_up', ['unspecified', 'cube']], ['move_to', ['table', 'cat']], ['put', ['table', 'cat']]]",
+    "_var_instruction": "Put the cat on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cat in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cat']], ['pick_up', ['unspecified', 'toy cat']], ['move_to', ['box', 'toy cat']], ['put', ['box', 'toy cat']]]",
+    "_var_instruction": "Put the toy cat in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the toy cube and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cube']], ['pick_up', ['unspecified', 'toy cube']], ['move_to', ['table', 'toy cube']], ['put', ['table', 'toy cube']]]",
+    "_var_instruction": "Pick up the toy cube and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the orange kitten from the table and put it in a green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'orange kitten']], ['pick_up', ['table', 'orange kitten']], ['move_to', ['green container', 'orange kitten']], ['put', ['green container', 'orange kitten']]]",
+    "_var_instruction": "Take the orange kitten from the table and put it in a green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat from the table and hide it in a box.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cat']], ['pick_up', ['table', 'cat']], ['move_to', ['box', 'cat']], ['put', ['box', 'cat']]]",
+    "_var_instruction": "Take the cat from the table and hide it in a box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cat from the floor and put it in an orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cat']], ['pick_up', ['table', 'cat']], ['move_to', ['orange box', 'cat']], ['put', ['orange box', 'cat']]]",
+    "_var_instruction": "Pick up the cat from the floor and put it in an orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a cucumber from the chair and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'cucumber']], ['pick_up', ['chair', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Take a cucumber from the chair and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['box', 'cat']], ['put', ['box', 'cat']]]",
+    "_var_instruction": "Put the cat in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['unspecified', 'orange box']], ['put', ['orange box', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the green box.\n\n### Response:\n",
+    "completion": "[[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], 'move_to', ['green box', 'cucumber']], ['put', ['green box', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the green box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cat and put it in an orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['orange box', 'cat']], ['put', ['orange box', 'cat']]]",
+    "_var_instruction": "Pick up the cat and put it in an orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a banana and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'banana']], ['pick_up', ['unspecified', 'banana']], ['move_to', ['table', 'banana']], ['put', ['table', 'banana']]]",
+    "_var_instruction": "Take a banana and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat from the table and put it on a chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cat']], ['pick_up', ['table', 'cat']], ['move_to', ['chair', 'cat']], ['put', ['chair', 'cat']]]",
+    "_var_instruction": "Take the cat from the table and put it on a chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a cucumber from the table and put it on a chair.\n\n### Response:\n",
+    "completion": "[[['move_to', ['table', 'cucumber']], 'pick_up', ['table', 'cucumber']], ['move_to', ['chair', 'cucumber']], ['put', ['chair', 'cucumber']]]",
+    "_var_instruction": "Take a cucumber from the table and put it on a chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a carrot from the floor and put it in a box.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'carrot']], ['pick_up', ['floor', 'carrot']], ['move_to', ['box', 'carrot']], ['put', ['box', 'carrot']]]",
+    "_var_instruction": "Take a carrot from the floor and put it in a box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a tomato and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'tomato']], ['pick_up', ['unspecified', 'tomato']], ['move_to', ['table', 'tomato']], ['put', ['table', 'tomato']]]",
+    "_var_instruction": "Take a tomato and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDrive up to the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'unspecified']]]",
+    "_var_instruction": "Drive up to the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a banana from the chair and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'banana']], ['pick_up', ['chair', 'banana']], ['move_to', ['table', 'banana']], ['put', ['table', 'banana']]]",
+    "_var_instruction": "Take a banana from the chair and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the apple from the floor and put it in the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'apple']], ['pick_up', ['floor', 'apple']], ['move_to', ['nightstand', 'apple']], ['put', ['nightstand', 'apple']]]",
+    "_var_instruction": "Pick up the apple from the floor and put it in the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the gray cat in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'gray cat']], ['pick_up', ['unspecified', 'gray cat']], ['move_to', ['orange box', 'gray cat']], ['put', ['orange box', 'gray cat']]]",
+    "_var_instruction": "Put the gray cat in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cube on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cube']], ['pick_up', ['unspecified', 'toy cube']], ['move_to', ['chair', 'toy cube']], ['put', ['chair', 'toy cube']]]",
+    "_var_instruction": "Put the toy cube on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cube in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cube']], ['pick_up', ['unspecified', 'cube']], ['move_to', ['orange box', 'cube']], ['put', ['orange box', 'cube']]]",
+    "_var_instruction": "Put the cube in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cat from the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'cat']], ['pick_up', ['floor', 'cat']]]",
+    "_var_instruction": "Pick up the cat from the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy']], ['pick_up', ['unspecified', 'toy']], ['move_to', ['table', 'toy']], ['put', ['table', 'toy']]]",
+    "_var_instruction": "Put the toy on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGet to the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'unspecified']]]",
+    "_var_instruction": "Get to the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a cucumber from the chair and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'cucumber']], ['pick_up', ['chair', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Take a cucumber from the chair and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat from the table and put it on a chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cat']], ['pick_up', ['table', 'cat']], ['move_to', ['chair', 'cat']], ['put', ['chair', 'cat']]]",
+    "_var_instruction": "Take the cat from the table and put it on a chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['orange box', 'cucumber']], ['put', ['orange box', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['table', 'cat']], ['put', ['table', 'cat']]]",
+    "_var_instruction": "Put the cat on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the tomato.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'tomato']], ['pick_up', ['unspecified', 'tomato']]]",
+    "_var_instruction": "Pick up the tomato."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the gray kitten in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'gray kitten']], ['pick_up', ['unspecified', 'gray kitten']], ['move_to', ['orange box', 'gray kitten']], ['put', ['orange box', 'gray kitten']]]",
+    "_var_instruction": "Put the gray kitten in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the kitten down on the floor.\n\n### Response:\n",
+    "completion": "[['put', ['floor', 'kitten']]]",
+    "_var_instruction": "Put the kitten down on the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the kitten from the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'kitten']], ['pick_up', ['chair', 'kitten']]]",
+    "_var_instruction": "Pick up the kitten from the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cube from the floor and put it in a green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'cube']], ['pick_up', ['floor', 'cube']], ['move_to', ['green container', 'cube']], ['put', ['green container', 'cube']]]",
+    "_var_instruction": "Pick up the cube from the floor and put it in a green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the kitten from the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'kitten']], ['pick_up', ['chair', 'kitten']]]",
+    "_var_instruction": "Pick up the kitten from the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat from the chair and put it on the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'cat']], ['pick_up', ['chair', 'cat']], ['move_to', ['nightstand', 'cat']], ['put', ['nightstand', 'cat']]]",
+    "_var_instruction": "Take the cat from the chair and put it on the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGet to the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['orange box', 'unspecified']]]",
+    "_var_instruction": "Get to the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the white toy from the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['nightstand', 'white toy']], ['pick_up', ['nightstand', 'white toy']]]",
+    "_var_instruction": "Take the white toy from the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a tomato from the table and put it on a chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'tomato']], ['pick_up', ['table', 'tomato']], ['move_to', ['chair', 'tomato']], ['put', ['chair', 'tomato']]]",
+    "_var_instruction": "Take a tomato from the table and put it on a chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['chair', 'cat']], ['put', ['chair', 'cat']]]",
+    "_var_instruction": "Put the cat on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the apple on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'apple']], ['pick_up', ['unspecified', 'apple']], ['move_to', ['chair', 'apple']], ['put', ['chair', 'apple']]]",
+    "_var_instruction": "Put the apple on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGet to the green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['green container', 'unspecified']]]",
+    "_var_instruction": "Get to the green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy kitten on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy kitten']], ['pick_up', ['unspecified', 'toy kitten']], ['move_to', ['table', 'toy kitten']], ['put', ['table', 'toy kitten']]]",
+    "_var_instruction": "Put the toy kitten on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat on the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['floor', 'cat']], ['put', ['floor', 'cat']]]",
+    "_var_instruction": "Put the cat on the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat in the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['nightstand', 'cat']], ['put', ['nightstand', 'cat']]]",
+    "_var_instruction": "Put the cat in the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['orange box', 'cat']], ['put', ['orange box', 'cat']]]",
+    "_var_instruction": "Put the cat in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cat down on the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cat']], ['pick_up', ['unspecified', 'toy cat']], ['move_to', ['floor', 'toy cat']], ['put', ['floor', 'toy cat']]]",
+    "_var_instruction": "Put the toy cat down on the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy']], ['pick_up', ['unspecified', 'toy']], ['move_to', ['box', 'toy']], ['put', ['box', 'toy']]]",
+    "_var_instruction": "Put the toy in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat to the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['chair', 'cat']], ['pick_up', ['chair', 'cat']]]",
+    "_var_instruction": "Take the cat to the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nHide the toy kitten in the nightstand.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy kitten']], ['pick_up', ['unspecified', 'toy kitten']], ['move_to', ['nightstand', 'toy kitten']], ['put', ['nightstand', 'toy kitten']]]",
+    "_var_instruction": "Hide the toy kitten in the nightstand."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the carrot from the table and put it in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'carrot']], ['pick_up', ['table', 'carrot']], ['move_to', ['drawer', 'carrot']], ['put', ['drawer', 'carrot']]]",
+    "_var_instruction": "Take the carrot from the table and put it in the drawer."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up a cucumber from the table and put it on a chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cucumber']], ['pick_up', ['table', 'cucumber']], ['move_to', ['chair', 'cucumber']], ['put', ['chair', 'cucumber']]]",
+    "_var_instruction": "Pick up a cucumber from the table and put it on a chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cucumber from the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cucumber']], ['pick_up', ['table', 'cucumber']]]",
+    "_var_instruction": "Pick up the cucumber from the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the corn in the box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'corn']], ['pick_up', ['unspecified', 'corn']], ['move_to', ['box', 'corn']], ['put', ['box', 'corn']]]",
+    "_var_instruction": "Put the corn in the box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in a green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['green container', 'cucumber']], ['put', ['green container', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in a green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cube in the orange box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cube']], ['pick_up', ['unspecified', 'toy cube']], ['move_to', ['orange box', 'toy cube']], ['put', ['orange box', 'toy cube']]]",
+    "_var_instruction": "Put the toy cube in the orange box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cube in the green box.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cube']], ['pick_up', ['unspecified', 'toy cube']], ['move_to', ['green box', 'toy cube']], ['put', ['green box', 'toy cube']]]",
+    "_var_instruction": "Put the toy cube in the green box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the gray cat.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'gray cat']], ['pick_up', ['unspecified', 'gray cat']]]",
+    "_var_instruction": "Pick up the gray cat."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat from the chair and put it on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'cat']], ['pick_up', ['chair', 'cat']], ['move_to', ['table', 'cat']], ['put', ['table', 'cat']]]",
+    "_var_instruction": "Take the cat from the chair and put it on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cat in the green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cat']], ['pick_up', ['unspecified', 'toy cat']], ['move_to', ['green container', 'toy cat']], ['put', ['green container', 'toy cat']]]",
+    "_var_instruction": "Put the toy cat in the green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the toy cat on the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'toy cat']], ['pick_up', ['unspecified', 'toy cat']], ['move_to', ['chair', 'toy cat']], ['put', ['chair', 'toy cat']]]",
+    "_var_instruction": "Put the toy cat on the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGet to the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['chair', 'unspecified']]]",
+    "_var_instruction": "Get to the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cube from the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'cube']], ['pick_up', ['table', 'cube']]]",
+    "_var_instruction": "Pick up the cube from the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDrive up to the green box.\n\n### Response:\n",
+    "completion": "[['move_to', ['green box', 'unspecified']]]",
+    "_var_instruction": "Drive up to the green box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the carrot in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'carrot']], ['pick_up', ['unspecified', 'carrot']], ['move_to', ['drawer', 'carrot']], ['put', ['drawer', 'carrot']]]",
+    "_var_instruction": "Put the carrot in the drawer."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the tomato from the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'tomato']], ['pick_up', ['floor', 'tomato']]]",
+    "_var_instruction": "Pick up the tomato from the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTransfer the cucumber from the chair to the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Transfer the cucumber from the chair to the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['table', 'cucumber']], ['put', ['table', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber on the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['unspecified', 'cucumber']], ['move_to', ['floor', 'cucumber']], ['put', ['floor', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber on the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDrive up to the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'unspecified']]]",
+    "_var_instruction": "Drive up to the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the carrot from the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'carrot']], ['pick_up', ['table', 'carrot']]]",
+    "_var_instruction": "Pick up the carrot from the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cucumber to the chair.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['cucumber', 'unspecified']], ['move_to', ['chair', 'cucumber']], ['put', ['chair', 'cucumber']]]",
+    "_var_instruction": "Take the cucumber to the chair."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cucumber in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cucumber']], ['pick_up', ['cucumber', 'unspecified']], ['move_to', ['drawer', 'cucumber']], ['put', ['drawer', 'cucumber']]]",
+    "_var_instruction": "Put the cucumber in the drawer."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the pink kitten from the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'pink kitten']], ['pick_up', ['floor', 'pink kitten']]]",
+    "_var_instruction": "Pick up the pink kitten from the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake a tomato from the table and put it in a green container.\n\n### Response:\n",
+    "completion": "[['move_to', ['table', 'tomato']], ['pick_up', ['table', 'tomato']], ['move_to', ['green container', 'tomato']], ['put', ['green container', 'tomato']]]",
+    "_var_instruction": "Take a tomato from the table and put it in a green container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDrive up to the orange container.\n\n### Response:\n",
+    "completion": "[['move_to', ['orange container', 'unspecified']]]",
+    "_var_instruction": "Drive up to the orange container."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the cat off the floor and put it in a green box.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'cat']], ['pick_up', ['floor', 'cat']], ['move_to', ['green box', 'cat']], ['put', ['green box', 'cat']]]",
+    "_var_instruction": "Take the cat off the floor and put it in a green box."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDrive up to the gray kitten on the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'gray kitten']]]",
+    "_var_instruction": "Drive up to the gray kitten on the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPut the cat on the table.\n\n### Response:\n",
+    "completion": "[['move_to', ['unspecified', 'cat']], ['pick_up', ['unspecified', 'cat']], ['move_to', ['table', 'cat']], ['put', ['table', 'cat']]]",
+    "_var_instruction": "Put the cat on the table."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTake the corn from the floor.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'corn']], ['pick_up', ['floor', 'corn']]]",
+    "_var_instruction": "Take the corn from the floor."
+  },
+  {
+    "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nPick up the cube from the floor and put it in the drawer.\n\n### Response:\n",
+    "completion": "[['move_to', ['floor', 'cube']], ['pick_up', ['floor', 'cube']], ['move_to', ['drawer', 'cube']], ['put', ['drawer', 'cube']]]",
+    "_var_instruction": "Pick up the cube from the floor and put it in the drawer."
+  }
+]

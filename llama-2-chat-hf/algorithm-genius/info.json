@@ -1,0 +1,9 @@
+{
+  "base_model": "sharpbai/Llama-2-7b-hf",
+  "prompt_template": "alpaca",
+  "dataset_name": "N/A (from text input)",
+  "dataset_rows": 231,
+  "trained_on_machine": "49cd41d3f46f",
+  "timestamp": 1697318125.6521196,
+  "tuner_version": "e08e9ae0"
+}
